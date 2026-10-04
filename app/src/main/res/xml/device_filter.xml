@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RadioMaster / STM32 Virtual COM Port filter -->
+    <usb-device vendor-id="1155" /> <!-- STM32 Vendor ID -->
+    <usb-device vendor-id="1027" /> <!-- FTDI / Generic Serial -->
+    <usb-device vendor-id="4292" /> <!-- CP210x Serial -->
+</resources>
